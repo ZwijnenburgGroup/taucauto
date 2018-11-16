@@ -2,6 +2,8 @@
 Python script that automatically extracts the bandgap of a material by the Tauc method [1].
 Tauc plots are also generated. A windows '.exe' standalone is also provided. 
 
+This code was developed by Liam Wilbraham while doing his post-doc in the Zwijnenburg group, https://www.zwijnenburg-group.org/.
+
 ### Function
 Transforms spectrum '.txt' files within a directory into Tauc plots, which are generated as '.jpg' files. From these plots, the band gap is extrapolated as outlined in ref [1].
 
